@@ -1,2 +1,2 @@
-# Seoes
-Front-end Theme [ HTML - CSS - Javascript - Bootstrap5 ] 
+# CRUD System Javascript
+Front-end Page [ HTML - CSS - Javascript - Bootstrap5 ] 
